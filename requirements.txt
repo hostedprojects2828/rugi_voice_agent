@@ -1,0 +1,10 @@
+openai>=1.68.0
+langgraph>=0.2.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+sounddevice>=0.5.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+twilio>=9.0.0
+python-multipart>=0.0.18
+audioop-lts>=0.2.1; python_version >= "3.13"
